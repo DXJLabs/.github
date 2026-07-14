@@ -16,7 +16,6 @@ Encrypted on-chain messaging and private payment coordination built on the offic
 
 - **VEIL** — Private messaging and payment coordination
 - **CAREL Protocol** — Privacy-focused DeFi research
-- **ChainEstate** — Privacy-first real-world asset platform
 
 ## Team
 
